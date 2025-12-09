@@ -1,0 +1,23 @@
+body {
+background-color: whitesmoke;
+}
+
+div#interface {
+width: 1210px ;
+background-color: white;
+margin: -20px auto 10px auto;
+box-shadow:0px 0px 10px lightgray ;
+padding: 10px 10px 10px 10px;
+}
+
+header#cabecalho h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+}
+
+figure.foto-legenda {
+    position: relative;
+    border: 8px solid white;
+    width: 473px;
+    box-shadow: 1px 1px 4px black;
+}  
